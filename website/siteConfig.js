@@ -12,10 +12,10 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Tonya A. Melvin-Bryant', // Title for your website.
-    tagline: 'Continuously improving, aspiring technologist.',
+    title: 'Davin Mcfaddin', // Title for your website.
+    tagline: 'Hard Working, Smart, Fast Learning Video Game Developer.',
     profilePhoto: 'img/profile.png',
-    url: 'https://tamelvinbryant.github.io', // Your website URL
+    url: 'https://dwmcfaddin1.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'tamelvinbryant',
+    organizationName: 'dwmcfaddin1',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'tonya-melvin-bryant-ab92b855',
-        twitter: 'tonyamccu',
-        github: 'tamelvinbryant',
+        linkedin: 'davin-mcfaddin-5bb3a41bb',
+        twitter: 'Do not have Twitter',
+        github: 'dwmcfaddin1',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
